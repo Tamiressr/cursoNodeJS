@@ -1,0 +1,16 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "projetoNodeAula1",
+  "main": "aula1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamires",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.18.1",
+    "mysql": "^2.13.0"
+  }
+}
